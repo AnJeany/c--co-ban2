@@ -11,6 +11,7 @@ namespace buoi_5
         static void Main(string[] args)
         {
            int choice = -1;
+            //somthing
 
            while (choice != 0) 
             {
@@ -20,7 +21,7 @@ namespace buoi_5
                 Console.WriteLine("3. Draw the rectangle");
                 Console.WriteLine("0. Exit");
                 Console.WriteLine("Enter your choice: ");
-                choice = Int32.Parse(Console.ReadLine());
+                choice = int.Parse(Console.ReadLine());
                 switch (choice )
                 {
 
