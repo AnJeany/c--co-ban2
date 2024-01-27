@@ -1,0 +1,7 @@
+D:\C# project\c#-co-ban2\buoi_4\bin\Debug\buoi_4.exe.config
+D:\C# project\c#-co-ban2\buoi_4\bin\Debug\buoi_4.exe
+D:\C# project\c#-co-ban2\buoi_4\bin\Debug\buoi_4.pdb
+D:\C# project\c#-co-ban2\buoi_4\obj\Debug\buoi_4.csproj.AssemblyReference.cache
+D:\C# project\c#-co-ban2\buoi_4\obj\Debug\buoi_4.csproj.CoreCompileInputs.cache
+D:\C# project\c#-co-ban2\buoi_4\obj\Debug\buoi_4.exe
+D:\C# project\c#-co-ban2\buoi_4\obj\Debug\buoi_4.pdb

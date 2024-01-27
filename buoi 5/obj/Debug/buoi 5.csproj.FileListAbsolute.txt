@@ -1,0 +1,7 @@
+D:\C# project\c#-co-ban2\buoi 5\bin\Debug\buoi 5.exe.config
+D:\C# project\c#-co-ban2\buoi 5\bin\Debug\buoi 5.exe
+D:\C# project\c#-co-ban2\buoi 5\bin\Debug\buoi 5.pdb
+D:\C# project\c#-co-ban2\buoi 5\obj\Debug\buoi 5.csproj.AssemblyReference.cache
+D:\C# project\c#-co-ban2\buoi 5\obj\Debug\buoi 5.csproj.CoreCompileInputs.cache
+D:\C# project\c#-co-ban2\buoi 5\obj\Debug\buoi 5.exe
+D:\C# project\c#-co-ban2\buoi 5\obj\Debug\buoi 5.pdb

@@ -1,0 +1,7 @@
+D:\C# project\c#-co-ban2\c#-co-ban2\bin\Debug\c#-co-ban2.exe.config
+D:\C# project\c#-co-ban2\c#-co-ban2\bin\Debug\c#-co-ban2.exe
+D:\C# project\c#-co-ban2\c#-co-ban2\bin\Debug\c#-co-ban2.pdb
+D:\C# project\c#-co-ban2\c#-co-ban2\obj\Debug\c#-co-ban2.csproj.AssemblyReference.cache
+D:\C# project\c#-co-ban2\c#-co-ban2\obj\Debug\c#-co-ban2.csproj.CoreCompileInputs.cache
+D:\C# project\c#-co-ban2\c#-co-ban2\obj\Debug\c#-co-ban2.exe
+D:\C# project\c#-co-ban2\c#-co-ban2\obj\Debug\c#-co-ban2.pdb

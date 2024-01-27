@@ -1,0 +1,7 @@
+D:\C# project\c#-co-ban2\ve\bin\Debug\ve.exe.config
+D:\C# project\c#-co-ban2\ve\bin\Debug\ve.exe
+D:\C# project\c#-co-ban2\ve\bin\Debug\ve.pdb
+D:\C# project\c#-co-ban2\ve\obj\Debug\ve.csproj.AssemblyReference.cache
+D:\C# project\c#-co-ban2\ve\obj\Debug\ve.csproj.CoreCompileInputs.cache
+D:\C# project\c#-co-ban2\ve\obj\Debug\ve.exe
+D:\C# project\c#-co-ban2\ve\obj\Debug\ve.pdb

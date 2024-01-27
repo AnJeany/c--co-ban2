@@ -1,0 +1,7 @@
+D:\C# project\c#-co-ban2\can nang co the\bin\Debug\can nang co the.exe.config
+D:\C# project\c#-co-ban2\can nang co the\bin\Debug\can nang co the.exe
+D:\C# project\c#-co-ban2\can nang co the\bin\Debug\can nang co the.pdb
+D:\C# project\c#-co-ban2\can nang co the\obj\Debug\can nang co the.csproj.AssemblyReference.cache
+D:\C# project\c#-co-ban2\can nang co the\obj\Debug\can nang co the.csproj.CoreCompileInputs.cache
+D:\C# project\c#-co-ban2\can nang co the\obj\Debug\can nang co the.exe
+D:\C# project\c#-co-ban2\can nang co the\obj\Debug\can nang co the.pdb
