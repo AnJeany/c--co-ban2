@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi 5", "buoi 5\buoi 5.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ve", "ve\ve.csproj", "{C68E9CD6-D757-435D-9A1F-2DAA8978873D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mang", "mang\mang.csproj", "{6E83F4BD-608C-4612-8D8A-B6FEEBCD872D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thay gia tri trong mang", "mang\thay gia tri trong mang.csproj", "{6E83F4BD-608C-4612-8D8A-B6FEEBCD872D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bt 20.2", "bt 20.2\bt 20.2.csproj", "{787855D8-9D49-4BFC-9C70-BE055F00AC66}"
 EndProject

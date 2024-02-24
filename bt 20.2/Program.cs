@@ -44,18 +44,6 @@ namespace bt_20._2
                 for (int j = 0; j < n; j++)
                     Console.WriteLine(arr2[i, j]);
             }
-
-            for (int i = 0; i < n; i++)
-            {
-                for (int j = 0; j < n; j++)
-                    arr_tong[i,j] = arr1[i,j] + arr2[i,j];
-            }
-            Console.WriteLine("Tong 2 ma tran la: ");
-            for (int i = 0; i < n; i++)
-            {
-                for (int j = 0; j < n; j++)
-                    Console.Write("\t" + arr_tong[i,j]);
-            }
             int max1 = arr1[0, 0];
             int max2 = arr1[0, 0];
             for (int i = 0; i < n; i++)

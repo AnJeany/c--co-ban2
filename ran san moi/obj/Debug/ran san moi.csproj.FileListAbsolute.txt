@@ -1,0 +1,7 @@
+D:\C# project\c#-co-ban2\ran san moi\bin\Debug\ran san moi.exe.config
+D:\C# project\c#-co-ban2\ran san moi\bin\Debug\ran san moi.exe
+D:\C# project\c#-co-ban2\ran san moi\bin\Debug\ran san moi.pdb
+D:\C# project\c#-co-ban2\ran san moi\obj\Debug\ran san moi.csproj.AssemblyReference.cache
+D:\C# project\c#-co-ban2\ran san moi\obj\Debug\ran san moi.csproj.CoreCompileInputs.cache
+D:\C# project\c#-co-ban2\ran san moi\obj\Debug\ran san moi.exe
+D:\C# project\c#-co-ban2\ran san moi\obj\Debug\ran san moi.pdb
