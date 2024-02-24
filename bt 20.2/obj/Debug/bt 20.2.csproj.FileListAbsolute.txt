@@ -1,0 +1,7 @@
+D:\C# project\c#-co-ban2\bt 20.2\bin\Debug\bt 20.2.exe.config
+D:\C# project\c#-co-ban2\bt 20.2\bin\Debug\bt 20.2.exe
+D:\C# project\c#-co-ban2\bt 20.2\bin\Debug\bt 20.2.pdb
+D:\C# project\c#-co-ban2\bt 20.2\obj\Debug\bt 20.2.csproj.AssemblyReference.cache
+D:\C# project\c#-co-ban2\bt 20.2\obj\Debug\bt 20.2.csproj.CoreCompileInputs.cache
+D:\C# project\c#-co-ban2\bt 20.2\obj\Debug\bt 20.2.exe
+D:\C# project\c#-co-ban2\bt 20.2\obj\Debug\bt 20.2.pdb

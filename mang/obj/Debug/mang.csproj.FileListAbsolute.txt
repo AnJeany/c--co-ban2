@@ -1,0 +1,7 @@
+D:\C# project\c#-co-ban2\mang\bin\Debug\mang.exe.config
+D:\C# project\c#-co-ban2\mang\bin\Debug\mang.exe
+D:\C# project\c#-co-ban2\mang\bin\Debug\mang.pdb
+D:\C# project\c#-co-ban2\mang\obj\Debug\mang.csproj.AssemblyReference.cache
+D:\C# project\c#-co-ban2\mang\obj\Debug\mang.csproj.CoreCompileInputs.cache
+D:\C# project\c#-co-ban2\mang\obj\Debug\mang.exe
+D:\C# project\c#-co-ban2\mang\obj\Debug\mang.pdb

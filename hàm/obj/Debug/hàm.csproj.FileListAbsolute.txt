@@ -1,0 +1,7 @@
+D:\C# project\c#-co-ban2\hàm\bin\Debug\hàm.exe.config
+D:\C# project\c#-co-ban2\hàm\bin\Debug\hàm.exe
+D:\C# project\c#-co-ban2\hàm\bin\Debug\hàm.pdb
+D:\C# project\c#-co-ban2\hàm\obj\Debug\hàm.csproj.AssemblyReference.cache
+D:\C# project\c#-co-ban2\hàm\obj\Debug\hàm.csproj.CoreCompileInputs.cache
+D:\C# project\c#-co-ban2\hàm\obj\Debug\hàm.exe
+D:\C# project\c#-co-ban2\hàm\obj\Debug\hàm.pdb
